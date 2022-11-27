@@ -1,0 +1,11 @@
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\ConsoleAppBank\obj\Debug\ConsoleAppBank.csproj.AssemblyReference.cache
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\ConsoleAppBank\obj\Debug\ConsoleAppBank.csproj.SuggestedBindingRedirects.cache
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\ConsoleAppBank\obj\Debug\ConsoleAppBank.csproj.CoreCompileInputs.cache
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\ConsoleAppBank\bin\Debug\ConsoleAppBank.exe.config
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\ConsoleAppBank\bin\Debug\ConsoleAppBank.exe
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\ConsoleAppBank\bin\Debug\ConsoleAppBank.pdb
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\ConsoleAppBank\bin\Debug\Super Awseome Library Project.dll
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\ConsoleAppBank\bin\Debug\Super Awseome Library Project.pdb
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\ConsoleAppBank\obj\Debug\ConsoleAppBank.csproj.CopyComplete
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\ConsoleAppBank\obj\Debug\ConsoleAppBank.exe
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\ConsoleAppBank\obj\Debug\ConsoleAppBank.pdb

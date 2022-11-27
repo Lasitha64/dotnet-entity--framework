@@ -1,0 +1,6 @@
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\Super Awseome Library Project\bin\Debug\Super Awseome Library Project.dll
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\Super Awseome Library Project\bin\Debug\Super Awseome Library Project.pdb
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\Super Awseome Library Project\obj\Debug\Super Awseome Library Project.csproj.AssemblyReference.cache
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\Super Awseome Library Project\obj\Debug\Super Awseome Library Project.csproj.CoreCompileInputs.cache
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\Super Awseome Library Project\obj\Debug\Super Awseome Library Project.dll
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\Super Awseome Library Project\obj\Debug\Super Awseome Library Project.pdb

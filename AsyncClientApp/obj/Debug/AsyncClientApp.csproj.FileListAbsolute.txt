@@ -1,0 +1,25 @@
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\AsyncClientApp\bin\Debug\AsyncClientApp.exe.config
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\AsyncClientApp\bin\Debug\AsyncClientApp.exe
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\AsyncClientApp\bin\Debug\AsyncClientApp.pdb
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\AsyncClientApp\bin\Debug\BankAppBusineesTier.exe
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\AsyncClientApp\bin\Debug\ConsoleAppBank.exe
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\AsyncClientApp\bin\Debug\Super Awseome Library Project.dll
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\AsyncClientApp\bin\Debug\BankAppBusineesTier.pdb
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\AsyncClientApp\bin\Debug\BankAppBusineesTier.exe.config
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\AsyncClientApp\bin\Debug\ConsoleAppBank.pdb
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\AsyncClientApp\bin\Debug\ConsoleAppBank.exe.config
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\AsyncClientApp\bin\Debug\Super Awseome Library Project.pdb
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\AsyncClientApp\obj\Debug\AsyncClientApp.csproj.AssemblyReference.cache
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\AsyncClientApp\obj\Debug\AsyncClientApp.csproj.SuggestedBindingRedirects.cache
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\AsyncClientApp\obj\Debug\MainWindow.g.cs
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\AsyncClientApp\obj\Debug\App.g.cs
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\AsyncClientApp\obj\Debug\AsyncClientApp_MarkupCompile.cache
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\AsyncClientApp\obj\Debug\AsyncClientApp_MarkupCompile.lref
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\AsyncClientApp\obj\Debug\MainWindow.baml
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\AsyncClientApp\obj\Debug\AsyncClientApp.g.resources
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\AsyncClientApp\obj\Debug\AsyncClientApp.Properties.Resources.resources
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\AsyncClientApp\obj\Debug\AsyncClientApp.csproj.GenerateResource.cache
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\AsyncClientApp\obj\Debug\AsyncClientApp.csproj.CoreCompileInputs.cache
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\AsyncClientApp\obj\Debug\AsyncClientApp.csproj.CopyComplete
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\AsyncClientApp\obj\Debug\AsyncClientApp.exe
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\AsyncClientApp\obj\Debug\AsyncClientApp.pdb

@@ -1,0 +1,6 @@
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\ApiClasses\bin\Debug\ApiClasses.dll
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\ApiClasses\bin\Debug\ApiClasses.pdb
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\ApiClasses\obj\Debug\ApiClasses.csproj.AssemblyReference.cache
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\ApiClasses\obj\Debug\ApiClasses.csproj.CoreCompileInputs.cache
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\ApiClasses\obj\Debug\ApiClasses.dll
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\ApiClasses\obj\Debug\ApiClasses.pdb

@@ -1,0 +1,14 @@
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\BankAppBusineesTier\bin\Debug\BankAppBusineesTier.exe.config
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\BankAppBusineesTier\bin\Debug\BankAppBusineesTier.exe
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\BankAppBusineesTier\bin\Debug\BankAppBusineesTier.pdb
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\BankAppBusineesTier\bin\Debug\ConsoleAppBank.exe
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\BankAppBusineesTier\bin\Debug\Super Awseome Library Project.dll
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\BankAppBusineesTier\bin\Debug\ConsoleAppBank.pdb
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\BankAppBusineesTier\bin\Debug\ConsoleAppBank.exe.config
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\BankAppBusineesTier\bin\Debug\Super Awseome Library Project.pdb
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\BankAppBusineesTier\obj\Debug\BankAppBusineesTier.csproj.AssemblyReference.cache
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\BankAppBusineesTier\obj\Debug\BankAppBusineesTier.csproj.SuggestedBindingRedirects.cache
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\BankAppBusineesTier\obj\Debug\BankAppBusineesTier.csproj.CoreCompileInputs.cache
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\BankAppBusineesTier\obj\Debug\BankAppBusineesTier.csproj.CopyComplete
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\BankAppBusineesTier\obj\Debug\BankAppBusineesTier.exe
+D:\SLIIT\Y3S2\DC\Lab1\Super Awseome Library Project\BankAppBusineesTier\obj\Debug\BankAppBusineesTier.pdb

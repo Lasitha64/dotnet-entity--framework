@@ -1,0 +1,5 @@
+                   Function : GetNumEntries()                                      
+.......................................function executed...........................................
+ Details : This function calculate the count of all the records in the database and return count    
+===================================================================================================
+
